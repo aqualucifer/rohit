@@ -1,8 +1,4 @@
 hello world how are you doing i'm just learning git
 hey ya how you i heard you baby
-<<<<<<< HEAD
-
-line 4
-=======
 line3
->>>>>>> master
+line 4
